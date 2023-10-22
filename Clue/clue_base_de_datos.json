@@ -1,0 +1,31 @@
+{
+  "evidencia": [
+    {
+      "personajes": {
+        "obi-Wan Kenobi": false,
+        "Padme Amidala": false,
+        "Capitan Rex": false,
+        "Anakin Skywalker": false,
+        "Darth Maul": false
+      }
+    },
+    {
+      "locaciones": {
+        "Sala de Clonacion": false,
+        "Sala de Reuniones del Consejo Jedi": false,
+        "Habitacion de Pruebas Jedi": false,
+        "Habitacion de Comunicacion Separatista": false,
+        "Laboratorio de Investigacion Kaminoano": false
+      }
+    },
+    {
+      "armas": {
+        "Sable de luz de Obi-Wan Kenobi": false,
+        "Blaster de Padme Amidala": false,
+        "Blaster de Clone Trooper": false,
+        "Sable de luz de Anakin Skywalker": false,
+        "Sith Holocron": false
+      }
+    }
+  ]
+}
